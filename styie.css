@@ -1,0 +1,33 @@
+
+img{
+    width: 100px;
+    
+}
+.cont{
+    background-color: black; 
+    height:70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box1{
+    width: 300px;
+    background-color: aqua;
+
+}
+.box2{
+    width: 300px;
+    background-color: aqua;
+}
+.box3{
+    width: 300px;
+    background-color: aqua;
+}
+.box4{
+    display: flex;
+    justify-content: space-around;
+}
+.box5{
+    display: flex;
+    justify-content: space-around;
+}
